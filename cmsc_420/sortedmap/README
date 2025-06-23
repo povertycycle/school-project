@@ -1,0 +1,10 @@
+Name		: William Sentosatio
+Login-ID	: wsentosa
+UID			: 114545749
+
+Section AvlGTre contains the following:
+/* ================================================================================================================= */
+/* Code contains adaptation from https://algs4.cs.princeton.edu/code/edu/princeton/cs/algs4/AVLTreeST.java.html
+/* and https://gist.github.com/nandor/9518116, and https://www.geeksforgeeks.org/avl-tree-set-1-insertion/.
+/* Dijkstra's algorithm adapted from: https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
+/* ================================================================================================================= */

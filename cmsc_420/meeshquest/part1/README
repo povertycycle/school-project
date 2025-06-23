@@ -1,0 +1,15 @@
+Name		: William Sentosatio
+Login-ID	: wsentosa
+UID			: 114545749
+
+Borrowed process FatalError section from part0 canonical, i.e. these lines
+
+			try {
+                results = XmlUtility.getDocumentBuilder().newDocument();
+                Element fatalError = results.createElement("fatalError");
+                results.appendChild(fatalError);
+        	} catch (ParserConfigurationException e1) {
+        		System.exit(-1);
+        	}
+        	
+at lines 198 to 204 in MeeshQuest.java
